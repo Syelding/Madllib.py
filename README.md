@@ -1,2 +1,5 @@
 # Madllib.py
-Madlib Generator
+
+
+
+This Madlib Generator was created to practice my creating function skills.
